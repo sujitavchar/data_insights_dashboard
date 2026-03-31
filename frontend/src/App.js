@@ -34,7 +34,7 @@ function App() {
         <div className="telecast-dashboard">
             <header className="dashboard-header panel">
                 <div className="title-section">
-                    <h1>🔴 LIVE: MEDIA METRICS CONTROL</h1>
+                    <h1> MEDIA METRICS CONTROL</h1>
                     <span className="subtitle">Real-Time Data Orchestration</span>
                 </div>
                 {fileName && (
