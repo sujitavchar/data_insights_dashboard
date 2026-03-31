@@ -1,7 +1,7 @@
 # Data Insights Dashboard
 
 ## Demo :
-[![VIDEO_DESCRIPTION](https://img.youtube.com/vi/RoIZGS4TzDE/0.jpg)](https://youtube.com)
+[![VIDEO_DESCRIPTION](https://img.youtube.com/vi/RoIZGS4TzDE/0.jpg)](https://www.youtube.com/watch?v=RoIZGS4TzDE)
 
 ## Features
 - Transform raw JSON/CSV datasets into intuitive and dynamic charts for quick insights.
