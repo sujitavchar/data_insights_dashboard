@@ -1,6 +1,6 @@
 # Data Insights Dashboard
 
-## Demo :
+## Demo : Click on the thumbnail below :
 [![VIDEO_DESCRIPTION](https://img.youtube.com/vi/RoIZGS4TzDE/0.jpg)](https://www.youtube.com/watch?v=RoIZGS4TzDE)
 
 ## Features
