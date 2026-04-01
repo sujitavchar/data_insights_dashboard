@@ -49,7 +49,7 @@ const AIInsightsPanel = ({ data, chartType, metric, disabled }) => {
 
     return (
         <div className="ai-insights-panel panel">
-            <h3>🤖 Liquid AI Analyst</h3>
+            <h3> AI Analyst</h3>
             <p className="subtitle">Synthesizing intelligence from current view.</p>
             
             <button 

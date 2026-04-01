@@ -19,7 +19,7 @@ export const aggregateData = (data, chartType, metric, selectedChannels =[]) => 
         const channelVal = row.channel || row.platform || 'Unknown Channel';
         const metricVal = parseFloat(row[metric]) || 0;
 
-        // ✅ FILTER LOGIC
+        //  FILTER LOGIC
         if (chartType === 'bar') {
             if (!selectedChannels.includes(channelVal)) return;
         }

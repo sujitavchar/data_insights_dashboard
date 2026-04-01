@@ -49,7 +49,7 @@ const ChartTypeSelector = ({
                 </select>
             </div>
 
-            {/* ✅ FILTER UI */}
+            {/* FILTER UI */}
             {chartType === 'bar' && (
                 <div className="control-group">
                     <label>Channels:</label>
